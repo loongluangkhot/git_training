@@ -3,3 +3,4 @@ A new line to play with change_alice branch.
 Change on change_alice.
 Changes after creating add_patrick branch.
 Change on remote repo.
+Change on remote repo again for conflict between local and remote.
